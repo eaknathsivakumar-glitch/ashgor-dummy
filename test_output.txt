@@ -1,0 +1,5 @@
+Test 1: 5 + 3 = 8 (Expected: 8) - PASSED
+Test 2: 10 + 20 = 30 (Expected: 30) - PASSED
+Test 3: -5 + 5 = 0 (Expected: 0) - PASSED
+Test 4: 100 + 200 = 300 (Expected: 300) - PASSED
+Test 5: 0 + 0 = 0 (Expected: 0) - PASSED
